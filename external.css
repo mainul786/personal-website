@@ -72,6 +72,9 @@ section{
     padding-top: 15px;
     color: white;
 }
+h5{
+    font-family: Arial, Helvetica, sans-serif;
+}
 .client{
     background-image: url("images/header-bg.png");
     background-position: top;
